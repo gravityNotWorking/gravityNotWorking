@@ -15,7 +15,7 @@
 <a href="https://twitter.com/bum1nk" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bum1nk" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/süleyman-ekmekci" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="süleyman-ekmekci" height="30" width="40" /></a>
 <a href="https://medium.com/@elb1s" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@elb1s" height="30" width="40" /></a>
- <a href="https://www.youtube.com/channel/UC8xBm-ZO5dbpeLYkW-AIdeg" target="_blank">
+ <a href="https://www.youtube.com/watch?v=-sRn2Z6ic-Q&list=PLfcPxT7DyCudBHqhgfBzKq8zls0I9VaPi" target="_blank">
   <img align="center" src="https://user-images.githubusercontent.com/77449139/222743692-098ee408-5c3f-4571-9585-5c6382aa8391.png" alt="süleyman-ekmekci" height="30" width="40" />
 
 </a>
