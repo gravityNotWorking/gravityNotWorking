@@ -1,10 +1,12 @@
-<h1 align="center">Hi 👋, I'm Suleyman Ekmekci</h1>![image](https://user-images.githubusercontent.com/77449139/222743157-80d15ac9-5468-4c6f-b729-c5d04c052dbb.png)
+<h1 align="center">Hi 👋, I'm Suleyman Ekmekci</h1>
 
  🌱 I’m currently working with React.
 
  📝 I regularly write articles on Medium.
+ 
  🎢 I solve Hackerrank challenges on YouTube.
     
+
 
 
 <h3 align="left">Connect with me:</h3>
