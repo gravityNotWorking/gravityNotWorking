@@ -2,9 +2,8 @@
 
  🌱 I’m currently working with React.
 
- 📝 I regularly write articles on [https://medium.com/@elb1s](https://medium.com/@elb1s)
-
- 🎢 I solve Hackerrank challenges on YouTube 
+ 📝 I regularly write articles on Medium.
+ 🎢 I solve Hackerrank challenges on YouTube.
     
 
 
